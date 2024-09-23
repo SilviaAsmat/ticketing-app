@@ -4,6 +4,10 @@ const Dashboard = () => {
   return (
     <div>
       <TicketCard />
+      <TicketCard />
+      <TicketCard />
+      <TicketCard />
+      <TicketCard />
     </div>
   );
 };
